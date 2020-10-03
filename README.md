@@ -10,3 +10,11 @@ So download the repository in main or whatever, then:
     git checkout your_name 
     
     git push --set-upstream origin your_name
+    
+Also in your ROS2 workspace 
+    
+    git branch your_name_ros2
+    
+    git checkout your_name_ros2
+    
+    git push --set-upstream origin your_name_ros2
